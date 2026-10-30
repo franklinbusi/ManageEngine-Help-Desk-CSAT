@@ -2,11 +2,11 @@
 
 A customer satisfaction report for IT support, built on post-resolution survey responses from ManageEngine ServiceDesk Plus. It shows how people feel about the help they received, from the overall rating down to specific areas like staff helpfulness, response time, and accuracy of the solution.
 
-![Home page](01-home.png)
+![Home page](images/01-home.png)
 
-![Report page](02-report.png)
+![Report page](images/02-report.png)
 
-![Data model](03-model.png)
+![Data model](images/03-model.png)
 
 ## What it shows
 
